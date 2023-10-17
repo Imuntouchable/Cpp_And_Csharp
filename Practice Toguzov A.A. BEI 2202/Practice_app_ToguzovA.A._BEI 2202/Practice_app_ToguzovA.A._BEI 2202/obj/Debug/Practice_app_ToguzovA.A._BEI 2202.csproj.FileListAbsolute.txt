@@ -1,0 +1,60 @@
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Properties.Resources.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.GenerateResource.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe.config
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task1.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task2.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition1.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition2.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CopyComplete
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Main.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition3.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task3.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task1.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task2.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task3.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Main.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Properties.Resources.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition1.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition2.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition3.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.GenerateResource.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe.config
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CopyComplete
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe.config
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task1.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task2.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Calculation_of_task3.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Main.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Properties.Resources.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition1.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition2.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI_2202.Task_condition3.resources
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.GenerateResource.cache
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.csproj.CopyComplete
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.exe
+C:\Users\123\Desktop\Practice Toguzov A.A. BEI 2202\Practice_app_ToguzovA.A._BEI 2202\Practice_app_ToguzovA.A._BEI 2202\obj\Debug\Practice_app_ToguzovA.A._BEI 2202.pdb

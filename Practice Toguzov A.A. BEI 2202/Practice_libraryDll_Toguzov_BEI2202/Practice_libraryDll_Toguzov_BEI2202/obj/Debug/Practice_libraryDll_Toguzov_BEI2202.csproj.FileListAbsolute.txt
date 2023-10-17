@@ -1,0 +1,12 @@
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\bin\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.dll
+C:\Users\123\Desktop\вуз\алгоритмизация\Практика\Practice Toguzov A.A. BEI 2202\Practice_libraryDll_Toguzov_BEI2202\Practice_libraryDll_Toguzov_BEI2202\obj\Debug\Practice_libraryDll_Toguzov_BEI2202.pdb
