@@ -1,0 +1,8 @@
+C:\Users\vasil\OneDrive\Документы\VSprojects\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Документы\VSprojects\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\OneDrive\Документы\VSprojects\lab_work_8\lab_work_8\x64\Debug\labwork8.MyForm.resources
+C:\Users\vasil\OneDrive\Документы\VSprojects\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.GenerateResource.cache
+G:\вуз\информатика\лабортаорная 8\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.AssemblyReference.cache
+G:\вуз\информатика\лабортаорная 8\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.SuggestedBindingRedirects.cache
+G:\вуз\информатика\лабортаорная 8\lab_work_8\lab_work_8\x64\Debug\labwork8.MyForm.resources
+G:\вуз\информатика\лабортаорная 8\lab_work_8\lab_work_8\x64\Debug\lab_work_8.vcxproj.GenerateResource.cache

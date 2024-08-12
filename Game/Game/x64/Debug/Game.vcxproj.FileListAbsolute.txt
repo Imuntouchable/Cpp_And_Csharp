@@ -1,0 +1,3 @@
+C:\Users\Александр\OneDrive\Desktop\вуз\Тех_программирорвания\Game\Game\x64\Debug\Game.vcxproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Desktop\вуз\Тех_программирорвания\Game\Game\x64\Debug\Game.Gamedev.resources
+C:\Users\Александр\OneDrive\Desktop\вуз\Тех_программирорвания\Game\Game\x64\Debug\Game.vcxproj.GenerateResource.cache

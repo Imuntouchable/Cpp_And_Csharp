@@ -1,0 +1,3 @@
+C:\Users\123\Desktop\вуз\Тех_программирорвания\TP_Toguzov_BEI2202\TP_Toguzov_BEI2202Dll\Debug\TP_Toguzov_BEI2202Dll.vcxproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\Тех_программирорвания\TP_Toguzov_BEI2202\TP_Toguzov_BEI2202Dll\Debug\TP_Toguzov_BEI2202Dll.vcxproj.ResolveComReference.cache
+C:\Users\123\Desktop\вуз\Тех_программирорвания\TP_Toguzov_BEI2202\TP_Toguzov_BEI2202Dll\Debug\TP_Toguzov_BEI2202Dll.dll

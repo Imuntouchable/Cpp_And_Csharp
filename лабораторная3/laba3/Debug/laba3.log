@@ -1,0 +1,14 @@
+﻿Построение начато 16.10.2022 19:39:21.
+     1>Проект "C:\Users\123\Desktop\вуз\информатика\лабораторная3\laba3\laba3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\laba3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab3.cpp
+         lab3.cpp
+     1>c:\users\123\desktop\вуз\информатика\лабораторная3\laba3\lab3.cpp(14): error C3861: function2: идентификатор не найден
+     1>c:\users\123\desktop\вуз\информатика\лабораторная3\laba3\lab3.cpp(22): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+     1>Построение проекта "C:\Users\123\Desktop\вуз\информатика\лабораторная3\laba3\laba3.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.27

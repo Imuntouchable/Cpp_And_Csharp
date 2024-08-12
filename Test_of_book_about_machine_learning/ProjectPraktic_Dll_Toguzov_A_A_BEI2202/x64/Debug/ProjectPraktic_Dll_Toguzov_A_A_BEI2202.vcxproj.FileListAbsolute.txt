@@ -1,0 +1,9 @@
+C:\Users\123\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.ResolveComReference.cache
+C:\Users\123\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.CopyComplete
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.ResolveComReference.cache
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj.CopyComplete
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.dll
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\Interop.Microsoft.Office.Interop.Word.8.7.dll
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\stdole.dll

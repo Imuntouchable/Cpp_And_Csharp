@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor10\labor10\x64\Debug\labor10.MyForm.resources
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.GenerateResource.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor10\labor10\x64\Debug\labor10.MyForm.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\labor10\labor10\x64\Debug\labor10.vcxproj.GenerateResource.cache

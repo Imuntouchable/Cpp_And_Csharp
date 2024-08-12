@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  TP_Toguzov_BEI2202Dll.cpp
+C:\Users\123\Desktop\вуз\Тех_программирорвания\TP_Toguzov_BEI2202\TP_Toguzov_BEI2202Dll\TP_Toguzov_BEI2202Dll.cpp(36,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TP_Toguzov_BEI2202Dll.vcxproj -> C:\Users\123\Desktop\вуз\Тех_программирорвания\TP_Toguzov_BEI2202\TP_Toguzov_BEI2202Dll\Debug\TP_Toguzov_BEI2202Dll.dll

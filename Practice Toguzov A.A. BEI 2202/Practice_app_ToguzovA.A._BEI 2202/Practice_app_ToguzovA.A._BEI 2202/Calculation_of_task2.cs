@@ -84,11 +84,21 @@ namespace Practice_app_ToguzovA.A._BEI_2202
                 return;
             }
             double L1_out, L2_out, L3_out, L1_ref = 0, L2_ref = 0, L3_ref = 0;
+            double L1_ret = function_decision_of_retL1(r1, a);
+            double L2_ret = function_decision_of_retL2(r2, b);
+            double L3_ret = function_decision_of_retL2(r3, y);
             function_decision_of_out(r1, a, out L1_out, r2, b, out L2_out, r3, y, out L3_out);
             function_decision_of_ref(r1, a, ref L1_ref, r2, b, ref L2_ref, r3, y, ref L3_ref);
-            Output_2(textBox11, textBox8, textBox14, textBox10, textBox7, textBox13, 
-                L1_out, L2_out, L3_out, L1_ref, L2_ref, L3_ref);
-            Text_write2(textBox11, textBox8, textBox14);
+            Output(textBox12, L1_ret);
+            Output(textBox11, L2_ret);
+            Output(textBox10, L3_ret);
+            Output(textBox9, L1_out);
+            Output(textBox8, L2_out);
+            Output(textBox7, L3_out);
+            Output(textBox15, L1_ref);
+            Output(textBox14, L2_ref);
+            Output(textBox13, L3_ref);
+            Text_write2(textBox12, textBox11, textBox10);
         }
 
         private void button2_Click_1(object sender, EventArgs e)

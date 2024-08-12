@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{821EAAB2-51F6-4585-9E97-7E94A9E29F70}</ProjectGuid>
+    <EnableManagedPackageReferenceSupport>true</EnableManagedPackageReferenceSupport>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>TPToguzovBEI2202</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>Main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>Main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="DllProekt">
+      <HintPath>x64\Debug\DllProekt.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ADOX.6.0">
+      <HintPath>..\TP_Toguzov_BEI2202Dll\Interop\Interop.ADOX.6.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Word.8.7">
+      <HintPath>..\TP_Toguzov_BEI2202Dll\Interop\Interop.Microsoft.Office.Interop.Word.8.7.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TP_Toguzov_BEI2202Dll">
+      <HintPath>x64\Debug\TP_Toguzov_BEI2202Dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Condition_lab1.cpp" />
+    <ClCompile Include="Condition_lab2.cpp" />
+    <ClCompile Include="Condition_lab3.cpp" />
+    <ClCompile Include="Condition_lab4.cpp" />
+    <ClCompile Include="Condition_lab5.cpp" />
+    <ClCompile Include="Condition_lab6.cpp" />
+    <ClCompile Include="Condition_lab7.cpp" />
+    <ClCompile Include="Exchange.cpp" />
+    <ClCompile Include="Lab1.cpp" />
+    <ClCompile Include="Lab2.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="massives2d.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Condition_lab1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab3.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab4.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab5.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab6.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Condition_lab7.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Exchange.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Lab1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Lab2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="massives2d.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Condition_lab1.resx">
+      <DependentUpon>Condition_lab1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab2.resx">
+      <DependentUpon>Condition_lab2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab3.resx">
+      <DependentUpon>Condition_lab3.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab4.resx">
+      <DependentUpon>Condition_lab4.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab5.resx">
+      <DependentUpon>Condition_lab5.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab6.resx">
+      <DependentUpon>Condition_lab6.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Condition_lab7.resx">
+      <DependentUpon>Condition_lab7.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exchange.resx">
+      <DependentUpon>Exchange.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab1.resx">
+      <DependentUpon>Lab1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab2.resx">
+      <DependentUpon>Lab2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="massives2d.resx">
+      <DependentUpon>massives2d.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Interop.Excel.1.9">
+      <VersionMinor>9</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>00020813-0000-0000-c000-000000000046</Guid>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

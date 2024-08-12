@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  Resh.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\123\Desktop\вуз\алгоритмизация\labor13\labor13\Resh.h(36): warning C4715: Delit: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  labor13.vcxproj -> C:\Users\123\Desktop\вуз\алгоритмизация\labor13\x64\Debug\labor13.exe

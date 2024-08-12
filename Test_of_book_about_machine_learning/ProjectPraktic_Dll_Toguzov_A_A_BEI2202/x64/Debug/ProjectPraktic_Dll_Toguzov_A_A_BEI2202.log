@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: обработка ссылки COM "Microsoft.Office.Interop.Word.8.7" из пути "C:\Program Files\Microsoft Office\Root\Office16\MSWORD.OLB". Программа импорта библиотек типов обнаружила метод считывания свойства "Dummy1" типа "Microsoft.Office.Interop.Word._Document" с недействительным типом возвращаемого значения.  Программа импорта попытается импортировать это свойство в качестве метода.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: обработка ссылки COM "Microsoft.Office.Interop.Word.8.7" из пути "C:\Program Files\Microsoft Office\Root\Office16\MSWORD.OLB". Программа импорта библиотек типов обнаружила метод считывания свойства "Dummy3" типа "Microsoft.Office.Interop.Word._Document" с недействительным типом возвращаемого значения.  Программа импорта попытается импортировать это свойство в качестве метода.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: обработка ссылки COM "Microsoft.Office.Interop.Word.8.7" из пути "C:\Program Files\Microsoft Office\Root\Office16\MSWORD.OLB". Программа импорта библиотек типов обнаружила метод считывания свойства "Dummy1" типа "Microsoft.Office.Interop.Word.DocumentClass" с недействительным типом возвращаемого значения.  Программа импорта попытается импортировать это свойство в качестве метода.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3010,5): warning MSB3305: обработка ссылки COM "Microsoft.Office.Interop.Word.8.7" из пути "C:\Program Files\Microsoft Office\Root\Office16\MSWORD.OLB". Программа импорта библиотек типов обнаружила метод считывания свойства "Dummy3" типа "Microsoft.Office.Interop.Word.DocumentClass" с недействительным типом возвращаемого значения.  Программа импорта попытается импортировать это свойство в качестве метода.
+  pch.cpp
+  AssemblyInfo.cpp
+  ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(351,17): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "/ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp")
+  C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(351,17):
+  Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Selection" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+  
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(354,41): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "/ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp")
+  C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(354,41):
+  Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::_Document" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+  C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(354,41):
+  Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Document" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+  
+C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(357,30): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "/ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp")
+  C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.cpp(357,30):
+  Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Range" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+  
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectPraktic_Dll_Toguzov_A_A_BEI2202.vcxproj -> C:\Users\Александр\OneDrive\Desktop\вуз\Проектный практикум\ProjectPraktic_Dll_Toguzov_A_A_BEI2202\x64\Debug\ProjectPraktic_Dll_Toguzov_A_A_BEI2202.dll

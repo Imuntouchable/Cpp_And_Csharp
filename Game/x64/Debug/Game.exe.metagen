@@ -1,0 +1,128 @@
+  Game.Gamedev.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Game, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Header.Weather: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Events:
+    NightEventHandler OnNight: SpecialName
+    DayendEventHandler OnDayend: SpecialName
+    DayEventHandler OnDay: SpecialName
+  Methods:
+    add_OnDay(DayEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_OnDay(DayEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_OnDayend(DayendEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_OnDayend(DayendEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_OnNight(NightEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_OnNight(NightEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    triggerEvents(Int32): PrivateScope, Public, HideBySig
+Class Header.Weather+DayEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Header.Weather+DayendEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Header.Weather+NightEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Header.Weather+WeatherChangedEventHandler: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class Header.Greenhouse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Double, Double, Int32, Boolean, Header.Weather): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean WateringState 'get set' : 
+    Int32 LightLevel 'get ' : 
+    Double Humidity 'get ' : 
+    Double Temperature 'get ' : 
+  Methods:
+    get_Temperature(): PrivateScope, Public, HideBySig, SpecialName
+    get_Humidity(): PrivateScope, Public, HideBySig, SpecialName
+    get_LightLevel(): PrivateScope, Public, HideBySig, SpecialName
+    get_WateringState(): PrivateScope, Public, HideBySig, SpecialName
+    set_WateringState(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    adjustForDay(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    adjustForDayend(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    adjustForNight(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Header.Greenhousew: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Header.Greenhouse
+    Void .ctor(Double, Double, Int32, Boolean, Header.Weather): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    adjustForDay(): PrivateScope, Public, Virtual, HideBySig
+Class Header.Sun: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.Windows.Forms.PictureBox, Int32, System.Drawing.Point[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.PictureBox Picture : Public
+    Int32 Speed : Public
+    System.Drawing.Point[] Route : Public
+    Int32 CurrentPointIndex : Public
+    System.Drawing.PointF CurrentPosition : Public
+    System.Drawing.PointF Direction : Public
+  Methods:
+    UpdateDirection(): PrivateScope, Public, HideBySig
+    Move(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    IsAtPoint(Point): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Header.Moon: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Header.Sun
+    Void .ctor(System.Windows.Forms.PictureBox, Int32, System.Drawing.Point[], System.Windows.Forms.Control, Header.Sun): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Control ParentControl : Public
+    Header.Sun CurrentSun : Public
+  Methods:
+    Move(): PrivateScope, Public, Virtual, HideBySig
+Class Header.People: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Header.Sun
+    Void .ctor(System.Windows.Forms.PictureBox, Int32, System.Drawing.Point[], System.Windows.Forms.Control, Header.Sun, Header.Weather): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Control ParentControl : Public
+    Header.Sun CurrentSun : Public
+  Properties:
+    Boolean WateringState 'get set' : 
+    Int32 LightLevel 'get ' : 
+    Double Humidity 'get ' : 
+    Double Temperature 'get ' : 
+  Methods:
+    get_Temperature(): PrivateScope, Public, HideBySig, SpecialName
+    get_Humidity(): PrivateScope, Public, HideBySig, SpecialName
+    get_LightLevel(): PrivateScope, Public, HideBySig, SpecialName
+    get_WateringState(): PrivateScope, Public, HideBySig, SpecialName
+    set_WateringState(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    settingsForDay(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    settingsForDayend(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    settingsForNight(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Move(): PrivateScope, Public, Virtual, HideBySig
+    UpdateParameters(): PrivateScope, Public, HideBySig
+    DayHandler(): PrivateScope, Public, HideBySig
+    DayendHandler(): PrivateScope, Public, HideBySig
+    NightHandler(): PrivateScope, Public, HideBySig
+Class Game.Gamedev: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

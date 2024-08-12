@@ -1,0 +1,49 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly DllProekt, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.ADOX.6.0, Version=6.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Assembly Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Assembly Interop.Microsoft.Office.Interop.Excel.1.9, Version=1.9.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Assembly Interop.Microsoft.Office.Core.2.8, Version=2.8.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Class DllProekt.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CalcStorona(Double, Double): PrivateScope, Public, Static, HideBySig
+    Storona(Double, Double, Double* IsImplicitlyDereferenced, Double, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced, Double* IsImplicitlyDereferenced): PrivateScope, Public, Static, HideBySig
+    Vvod(TextBox): PrivateScope, Public, Static, HideBySig
+    Vivod(Double, TextBox): PrivateScope, Public, Static, HideBySig
+    Vivod_mas(DataGridView, Double*, Int32): PrivateScope, Public, Static, HideBySig
+    Vvod_mas(Int32 IsConst): PrivateScope, Public, Static, HideBySig
+    CountDiap(Double*, Int32): PrivateScope, Public, Static, HideBySig
+    CreateMas(Double*, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ColvoElm(Double*, Int32): PrivateScope, Public, Static, HideBySig
+    add(): PrivateScope, Public, Static, HideBySig
+    add_struct(): PrivateScope, Public, Static, HideBySig
+    add_zap(Double*, Double*, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ZapisWord(Double*, Double*, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Monotonost(Double*, Int32): PrivateScope, Public, Static, HideBySig
+    Nechet(Double*, Int32): PrivateScope, Public, Static, HideBySig
+    ZapisExcel(Double*, Double*, Int32, Int32): PrivateScope, Public, Static, HideBySig
+Class DllProekt.Class2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    VvodMatr(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    VivodMatr(DataGridView, Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    SummElm(Int32**, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    NewMatr(Int32**, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    KolvoElm(Int32**, Int32, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    Vivod_newmatr(DataGridView, Int32*, Int32): PrivateScope, Public, Static, HideBySig

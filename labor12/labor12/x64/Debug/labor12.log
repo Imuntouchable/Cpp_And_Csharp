@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\123\Desktop\вуз\алгоритмизация\labor12\labor12\Resh.h(14): warning C4715: Delit: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  labor12.vcxproj -> C:\Users\123\Desktop\вуз\алгоритмизация\labor12\x64\Debug\labor12.exe

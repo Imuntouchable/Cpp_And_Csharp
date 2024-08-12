@@ -53,17 +53,21 @@ namespace Practice_libraryDll_Toguzov_BEI2202
         }
 
         // Методы для вычисление длин дуг L1, L2, L3, разными способами: return, out, ref
-        public static void Output_2(TextBox t1, TextBox t2, TextBox t3, TextBox t4, TextBox t5,
-            TextBox t6, double L1_out, double L2_out, double L3_out, double L1_ref, double L2_ref, double L3_ref)
+        public static double function_decision_of_retL1(double R1, double a)
         {
-            t1.Text = Convert.ToString(L1_out);
-            t2.Text = Convert.ToString(L2_out);
-            t3.Text = Convert.ToString(L3_out);
-            t4.Text = Convert.ToString(L1_ref);
-            t5.Text = Convert.ToString(L2_ref);
-            t6.Text = Convert.ToString(L3_ref);
+            double answer = function_R1_and_alpha(R1, a);
+            return answer;
         }
- 
+        public static double function_decision_of_retL2(double R2, double b)
+        {
+            double answer = function_R2_and_beta(R2, b);
+            return answer;
+        }
+        public static double function_decision_of_retL3(double R3, double y)
+        {
+            double answer = function_R3_and_gamma(R3, y);
+            return answer;
+        }
         public static void function_decision_of_out(double R1, double a, out double L1_out, double R2, double b, out double L2_out, double R3, double y, out double L3_out)
         {
             L1_out = function_R1_and_alpha(R1, a);
@@ -146,7 +150,7 @@ namespace Practice_libraryDll_Toguzov_BEI2202
                 flag = true;
                 answer = max;
             }
-            if (flag == false)
+            else
             {
                 answer = a + Pow(Cos(Sin(Abs(x))), a) + y;
             }

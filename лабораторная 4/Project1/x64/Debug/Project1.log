@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(33,12): error C2082: переопределение формального параметра "ot1"
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(33,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(34,12): error C2082: переопределение формального параметра "ot2"
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(34,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(35,12): error C2082: переопределение формального параметра "ot3"
+C:\Users\123\Desktop\вуз\информатика\лабораторная 4\Project1\Source.cpp(35,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных

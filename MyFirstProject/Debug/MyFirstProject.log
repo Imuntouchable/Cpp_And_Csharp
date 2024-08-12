@@ -1,0 +1,38 @@
+﻿Построение начато 14.09.2022 21:04:04.
+     1>Проект "C:\Users\123\Desktop\Новая папка (2)\MyFirstProject\MyFirstProject.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\MyFirstProject.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Обращение к "Debug\MyFirstProject.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyFirstProject.cpp
+         MyFirstProject.cpp
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: Явное: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "преобразование"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: преобразование: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: в: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "целый"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: целый: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "тип"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: тип: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "с"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: с: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "усечением"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: усечением: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: в: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стиле"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: стиле: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "С"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2065: способ: необъявленный идентификатор
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2143: синтаксическая ошибка: отсутствие ")" перед "константа"
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C2059: синтаксическая ошибка: )
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\123\desktop\новая папка (2)\myfirstproject\myfirstproject.cpp(23): error C3861: С: идентификатор не найден
+     1>Построение проекта "C:\Users\123\Desktop\Новая папка (2)\MyFirstProject\MyFirstProject.vcxproj" завершено (целевые объекты rebuild) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.29

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor13\labor13\x64\Debug\labor13.MyForm.resources
+C:\Users\User\Desktop\вуз\Алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.GenerateResource.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.AssemblyReference.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\123\Desktop\вуз\алгоритмизация\labor13\labor13\x64\Debug\labor13.MyForm.resources
+C:\Users\123\Desktop\вуз\алгоритмизация\labor13\labor13\x64\Debug\labor13.vcxproj.GenerateResource.cache
